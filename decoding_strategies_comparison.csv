@@ -1,0 +1,377 @@
+Prompt,Strategy,Output,Time (s),Tokens/sec
+What were the primary revenue drivers reported by the company?,Greedy,"Microsoft Corporation
+
+(2019)
+
+Revenue
+
+$
+13,232
+
+$
+13,232
+
+$
+13,232
+
+Depreciation and amortization
+
+$
+1,232
+
+$
+1,232
+
+$
+1,232
+
+Other income
+
+$
+1,232
+
+$
+1,232
+
+$
+1,232
+
+Total income
+
+$
+25,464
+
+$
+25,464
+
+$
+25,464
+
+Revenue",5.446,27.54
+What were the primary revenue drivers reported by the company?,Beam Search,"2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001,",7.732,19.4
+What were the primary revenue drivers reported by the company?,Top-K (K=50),"3,283.00 
+Net Income, Preferred Stock 2025 3,264.20 
+Net Income, Common 2025 3,333.00 
+Net Income, Retained Earnings 3,283.00 
+Net Income, Total Income (2021) 3,282.70 
+Net Income, Total Income (2022) 3,259.00 
+Net Income, Total Income (2023) 3,302.50 
+Net Income, Total Income (2024) 3,",5.73,26.18
+What were the primary revenue drivers reported by the company?,Top-P (P=0.9),"practices, development of new technologies, and licensing the use of technology for commercial and personal gain. In addition to 
+the means and capacities for managing and sharing our data, we consider the ease with which our customers use our products, services, 
+business models, processes, and products and services. We provide our products and services to our users in locations that meet our customers’ 
+expectations and requirements. We consider the ability to move, store, and retrieve data, and data management and processing capabilities, 
+as well as the need to provide financial incentives to our employees, and the ease with which our employees provide this data to 
+employees and users.
+Our company’s data and cloud environments include:",5.442,27.56
+What were the primary revenue drivers reported by the company?,Temp=0.2 (Low),"Microsoft Corporation
+
+(2021 est.)
+Revenue from operations
+$ 
+(1,382 billion)
+Revenue from operations
+$ 
+(1,382 billion)
+Revenue from operations
+$ 
+(1,382 billion)
+Revenue from operations
+(1,382 billion)
+Revenue from operations
+(1,382 billion)
+Revenue from operations
+(1,382 billion)
+Revenue from operations
+(1,382 billion)
+Revenue from operations
+(1,382 billion)
+Revenue from operations
+(1,382 billion)
+Revenue",5.523,27.16
+What were the primary revenue drivers reported by the company?,Temp=0.7 (Medium),"Microsoft Corporation (Metrics)
+
+$
+20.5 billion
+
+$
+19.5 billion
+
+$
+19.5 billion
+
+Total revenue, as of December 31, 2025
+
+(Source: Consolidated Financial Statements, 2024)
+
+Microsoft Corporation (Metrics)
+
+$
+20.5 billion
+
+$
+19.5 billion
+
+$
+19.5 billion
+
+Total revenue, as of December 31, 2025
+
+(Source: Consolidated Financial Statements, 2024)
+
+Microsoft Corporation (Metrics)
+
+$
+20.",5.436,27.6
+What were the primary revenue drivers reported by the company?,Temp=1.2 (High),"8 billion, 
+comprising approximately $5.2 billion in payments to our subsidiary and a portion of another subsidiary (The United Therom, LLC).
+80.
+Other:
+Accomplishments for this section include the company’s $52.9 billion overall revenue for 2019 and 
+ongoing overall revenue of approximately $54.3 billion, as well as our increased operating margins from 
+December 11, 2019 to October 31, 2024 of approximately 22%.
+81.  
+66% of our revenues and assets came from our affiliates through 2026, when our affiliate revenues were at",5.394,27.81
+What major financial risks were identified in the report?,Greedy,"nancial risks, including the potential for significant changes in the value of our investments, the impact of changes in the 
+international financial markets, and the impact of changes in the value of our foreign currency reserves. We also have significant 
+exposure to the risk of changes in the value of our investments, including the risk of significant changes in the value of our 
+foreign currency reserves.
+We have significant exposure to the risk of changes in the value of our investments, including the risk of significant changes in 
+the value of our foreign currency reserves. We have significant investments in the following:
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•",5.636,26.62
+What major financial risks were identified in the report?,Beam Search,"nancial risks include:
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•",7.756,19.34
+What major financial risks were identified in the report?,Top-K (K=50),"and
+
+Microsoft Corp.  
+(120,322)  
+Apple Inc. 
+(3,137)  
+Google Inc.  
+(3,043)  
+Networking 3.0  
+(1,377)  
+
+Apple Inc.  
+(3,137)  
+  
+Networking 3.0  
+(1,377) 
+Microsoft Corp. 
+(15,002)  
+Apple Inc.  
+
+Networking 3.0  
+(1,377) 
+Microsoft Corp.  
+(15,002)  
+Net",5.489,27.33
+What major financial risks were identified in the report?,Top-P (P=0.9),"modication to current arrangements on federal tax and regulatory rules, particularly such arrangements 
+which currently exempt our company and associated activities.
+Additional Notes
+This report includes the following additional notes.
+Additional Notice of Adverse Change in Internal Control:
+This additional notice may be filed in the absence of any formal meeting or, when formally required, in the 
+presence of a meeting of shareholders. The notification of an adverse change is provided below. We include the 
+following 
+remarks to each notice of adverse change:
+1. We have recognized that the internally prepared data generated by our business processes have inappropriately 
+made decisions in our personal affairs and in making legal decisions. 
+For the purpose of complying with",5.607,26.75
+What major financial risks were identified in the report?,Temp=0.2 (Low),"nancial and operational risks, including the potential for our operations to be disrupted by
+unforeseen events or circumstances, such as a natural disaster, a terrorist attack, or a cyberattack, or by the failure of our
+technology systems, and the potential for our operations to be adversely affected by the failure of our customers, suppliers, or
+third parties.
+We are also subject to significant regulatory and compliance risks, including the potential for our operations to be subject to
+regulation or compliance requirements that are not consistent with our business model, or that are not consistent with our
+operating practices, and the potential for our operations to be subject to the disclosure of information to regulatory agencies,
+including the U.S. Securities and Exchange Commission",5.406,27.74
+What major financial risks were identified in the report?,Temp=0.7 (Medium),"lutions, we need to manage, and to have ongoing controls in place to comply with the regulatory requirements of 
+the relevant state and federal agencies, and to protect our employees and customers (including overseas customers) 
+from harm or loss in the event of a data breach.
+We are continuously evaluating our regulatory compliance with the following state and federal agencies:
+State and Federal Agencies
+(as of October 1, 2025):
+The following is a list of agencies that have issued reports on our compliance with their requirements, 
+including the reports of any agencies that have issued reports that have been incorporated into the 
+Compliance Report.
+Compliance with the following reporting requirements by the following state and federal agencies",5.446,27.54
+What major financial risks were identified in the report?,Temp=1.2 (High),"eral, but also
+in other products released by Amazon. These products do not typically meet the stringent requirements to qualify for cloud services
+under the Open Stack Standard. 
+Additional concerns include the following:
+2.5
+“Bundle Risk” when Amazon is used as a marketplace for the sale of physical books, electronic books (eBooks), and other
+digital services;
+The platform for acquiring goods is eCommerce. These products do not typically match the requirements to qualify for any
+cloud services according to the Open Stack Standard.
+2.8
+“Content” when content services are available for free or at an additional charge via the Amazon App and Amazon Play
+services:
+Although Amazon provides content such as video stores",5.519,27.18
+What future growth strategies were discussed?,Greedy,"we have been developing and deploying new technologies and services to help our customers and partners
+
+improve their experiences. We are also investing in new technologies and services to help our customers and partners
+improve their experiences. For example, we are developing and deploying new technologies and services to help our customers and
+partners improve their experiences. We are also investing in new technologies and services to help our customers and partners
+improve their experiences. For example, we are developing and deploying new technologies and services to help our customers and
+partners improve their experiences.
+We are also investing in new technologies and services to help our customers and partners improve their experiences. For
+example, we are developing and deploying new technologies and services to help our",5.31,28.25
+What future growth strategies were discussed?,Beam Search,"We have a long-term plan to continue to expand our presence in the U.S. and 
+Europe. We plan to continue to expand our presence in the U.S. and 
+Europe. We plan to continue to expand our presence in the U.S. and 
+Europe. We plan to continue to expand our presence in the U.S. and 
+Europe. We plan to continue to expand our presence in the U.S. and 
+Europe. We plan to continue to expand our presence in the U.S. and 
+Europe. We plan to continue to expand our presence in the U.S. and 
+Europe. We plan to continue to expand our presence in the",7.617,19.69
+What future growth strategies were discussed?,Top-K (K=50),"we have been in business for 10 years and we expect to continue doing business for the next 10 
+years. We are in the midst of a significant global transformation, including the introduction of new 
+technology and the introduction of new products and services that are disrupting our business 
+processes. We have been experiencing a number of challenges and challenges, such as the increasing 
+impact of the pandemic, the changing regulatory environment, and the impact of the global economic 
+recovery. We also are experiencing significant challenges in terms of managing our operations, 
+including the impact of the pandemic and the changing regulatory environment, and in terms of 
+managing our workforce. As we continue to evolve our business, the",5.668,26.46
+What future growth strategies were discussed?,Top-P (P=0.9),"o all those who receive the
+specified sign-in cookies or notice cookie. In addition to its representations and warranties, cookie management is considered a commercial
+service provided in good faith and under recognized contract. The following disclosure of information about the company’s ability to accurately determine
+cookie management to be performed would not help us persuade our consumers to retain their devices, and such information is considered proprietary and
+nondisclosure agreement (DOA). In addition, the companies providing and maintaining the processes, strategies, and technologies of the network,
+electronic information management system, and data center that our devices connect to may have other independent, competitive processes, strategies,
+and technologies for cookie management that are capable of generating similar measurable performance. As a",5.642,26.59
+What future growth strategies were discussed?,Temp=0.2 (Low),"and
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+(12)
+
+(13)
+
+(14)
+
+(15)
+
+(16)
+
+(17)
+
+(18)
+
+(19)
+
+(20)
+
+(21)
+
+(22)
+
+(23)
+
+(24)
+
+(25)
+
+(26)",5.359,27.99
+What future growth strategies were discussed?,Temp=0.7 (Medium),"aggregate user demographics. We have also adopted the best practices outlined in the US Consumer Technology Association’s
+Consumer Privacy Practices to further protect the privacy of our customers.
+Our Privacy Policies
+We collect and store user data primarily to support our business and technological offerings and to improve our services. We have
+privacy policies for our data and services. These privacy policies provide details of how we collect, store, and share our data
+concerning our products and services.
+We are currently testing our privacy policies and our privacy practices in compliance with state and federal law and regulations.
+Our Privacy Practices
+Our privacy practices set forth how we collect, store, and share our data. Our privacy practices provide details of how we collect,",5.434,27.6
+What future growth strategies were discussed?,Temp=1.2 (High),"t. 
+
+##
+87 
+Agents and 1  
+Additional information 
+Inclusion of such individuals was in part brought about by the U.S. Food & Drug Administrative Committee’s opinion that it would result 
+42 
+902 
+(9182)—
+“adverse consequences” as part of a waiver from the U.S. Government regarding our claims.  
+On October 1, 2024, our company’s Board affirmed 99% of the Board recommendation in this case under the Advisory 
+
+## 88 
+17531 (“ABA”) Rule.  
+Further, we were granted as an",5.362,27.97
